@@ -1,0 +1,19 @@
+{
+  "name": "ds-a-challenges",
+  "version": "1.0.0",
+  "description": "DS&A challenges for interview prep",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlescrabtree/DS-A-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlescrabtree/DS-A-challenges/issues"
+  },
+  "homepage": "https://github.com/charlescrabtree/DS-A-challenges#readme"
+}
